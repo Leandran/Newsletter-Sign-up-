@@ -1,12 +1,12 @@
 # Newsletter-Sign-up,  to set up a mailing list using the Mailchimp API.
 
-Technologies:
+# Technologies:
 
-node.js
-JavaScript
-HTML 5
-CSS3
-Bootstrap 4
+* node.js
+* JavaScript
+* HTML 5
+* CSS3
+* Bootstrap 4
 
 
 
